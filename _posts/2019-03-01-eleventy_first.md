@@ -1,5 +1,5 @@
 ---
-title: "Your blog post title" 
+title: " Your blog post title " 
 date: 2019-03-01 
 --- 
 
