@@ -1,5 +1,7 @@
---- title: "Eleventy First" 
-date: 2019-03-01 --- 
+--- 
+title: "Eleventy First" 
+date: 2019-03-01 
+--- 
 
 ## An eleventy first birthday?
 
