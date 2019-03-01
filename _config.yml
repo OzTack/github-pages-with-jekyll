@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   But I can promise second breakfast and the occasional pipe of gillyweed!
 
 # social links
-twitter_username: @frodo
+twitter_username: frodo
 github_username:  OzTack
 
 show_excerpts: true # set to false to remove excerpts on the homepage
