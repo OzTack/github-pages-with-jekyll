@@ -1,4 +1,4 @@
-# Welcome to my blog
+# Lord of the Brackets
 
 I'm glad you are here. I plan to talk about ...
 
