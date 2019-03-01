@@ -1,6 +1,6 @@
 ---
-title: "eleventy_first" 
-date: 2019-03-01 
+title: "eleventy_first"
+date: 2019-03-01
 --- 
 
 ## An eleventy first birthday?
