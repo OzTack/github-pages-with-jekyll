@@ -3,11 +3,11 @@ author: OzTack
 email: OzTack@NoSpam.com
 description: > # this means to ignore newlines until "baseurl:"
   I can't promise a Golden ring or a flock of Nazgul 
-  But I can promise seconf=d breagfast and the occasional pipe of gillyweed!
+  But I can promise second breakfast and the occasional pipe of gillyweed!
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: @frodo
+github_username:  OzTack
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
